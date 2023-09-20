@@ -1,6 +1,6 @@
 # zz-mpi
 
-Here we attach the simulation codes used in the following paper:
+Here we attach the codes used in the empirical illustration in the following paper:
 
 Zelenyuk, V., and S. Zhao* (2023), Inference for DEA Estimators of Malmquist Productivity Indices: An Overview, Further Improvements and a Guide for Practitioners.
 
